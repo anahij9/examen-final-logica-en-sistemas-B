@@ -6,6 +6,8 @@
 
 #carnet:0907-19-6959
 
+#repositoriohttps://github.com/anahij9/examen-final-logica-en-sistemas-B.git
+
 from tkinter import ttk
 from tkinter import *
 
